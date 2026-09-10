@@ -7,9 +7,6 @@ node_modules/
 # Ignore compiled JS files
 dist/
 
-# Ignore TypeScript declaration files
-*.d.ts
-
 # Ignore source maps
 *.js.map
 
