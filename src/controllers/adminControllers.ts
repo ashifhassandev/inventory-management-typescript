@@ -1,3 +1,4 @@
+/// <reference path="../types/global.d.ts" />
 import { Request, Response } from "express";
 import bcrypt from "bcrypt";
 
