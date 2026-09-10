@@ -2,7 +2,6 @@ import mongoose, { Document, Model, Schema, ObjectId } from "mongoose";
 
 // Define the Product interface
 export interface ProductDocument extends Document {
-    _id: ObjectId;
     name: string;
     category: string;
     stock: number;
